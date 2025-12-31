@@ -42,5 +42,3 @@ The system continuously monitors soil moisture levels and activates the pump onl
 - Jumper Wires
 
 ---
-
-## 🗂️ Repository Structure
